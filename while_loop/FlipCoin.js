@@ -11,7 +11,6 @@ while (headsCount < 11 || tailsCount < 11) {
     }
     
 }
-
 if (headsCount === 11) {
     console.log("Heads wins 11 times");
 } else {
