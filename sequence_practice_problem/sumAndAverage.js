@@ -8,7 +8,7 @@ let average = 0;
 
 for(let i=0; i<5; i++){
     let randomNumber = generateRandom();
-    //calculate sum of random number
+    //calculate sum
     sum += randomNumber;
 }
 
