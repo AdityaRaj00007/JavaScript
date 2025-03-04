@@ -1,3 +1,4 @@
+// read user input
 const number = parseInt(process.argv[2]); 
 
 switch (number) {
