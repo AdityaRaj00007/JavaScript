@@ -14,5 +14,4 @@ while (low < high) {
         high = mid; 
     }
 }
-
 console.log(`magic number is ${low}`);
